@@ -92,7 +92,7 @@ export const LATEST_ON_AIR: OnAirShow[] = [
     cast: '유재석 & 유연석',
     type: 'Entertainment',
     releaseDate: '화요일 오후 10시 20분',
-    coverUrl: '/image/album/8.PNG',
+    coverUrl: '/image/album/1-1.PNG',
     gradient: 'from-green-950 to-emerald-950',
     description: 'Transcending the boundaries of screen and stage, our actors bring unforgettable narratives to life with raw emotion and depth. This archive traces the active steps of visionary performers commanding the spotlight across dramas, cinema, variety shows, and live theater. Every project is a testament to the meticulous dedication that defines true storytelling.'
   },
@@ -102,7 +102,7 @@ export const LATEST_ON_AIR: OnAirShow[] = [
     cast: '이동욱',
     type: 'Photo Book',
     releaseDate: '2026년 6월 9일',
-    coverUrl: 'https://images.unsplash.com/photo-1507679799987-c73779587ccf?q=80&w=600&auto=format&fit=crop',
+    coverUrl: '/image/album/3-1.PNG',
     gradient: 'from-zinc-900 to-stone-950',
     description: '배우 이동욱의 품격 있고 치명적인 오라를 가득 담은 비하인드 화보집. 한정 수량 선예약 판매 개시.'
   },
@@ -112,7 +112,7 @@ export const LATEST_ON_AIR: OnAirShow[] = [
     cast: '유연석',
     type: 'Musical',
     releaseDate: '2026년 6월 7일',
-    coverUrl: 'https://images.unsplash.com/photo-1503095391755-1414e8c57b57?q=80&w=600&auto=format&fit=crop',
+    coverUrl: '/image/album/4-1.PNG',
     gradient: 'from-amber-950 to-orange-950',
     description: '서울 대학로를 뜨겁게 달군 유연석의 전설적인 헤드윅 무대. 관객들의 찬사 속 피날레 공연 성료.'
   },
@@ -122,7 +122,7 @@ export const LATEST_ON_AIR: OnAirShow[] = [
     cast: '이광수',
     type: 'Variety',
     releaseDate: '금요일 오후 9시 10분',
-    coverUrl: 'https://images.unsplash.com/photo-1478737270239-2f02b77fc618?q=80&w=600&auto=format&fit=crop',
+    coverUrl: '/image/album/5-1.PNG',
     gradient: 'from-teal-900 to-slate-950',
     description: '배우 이광수의 유쾌하고 친근한 일상을 엿볼 수 있는 버라이어티 힐링 캠프 현장 예능.'
   }
@@ -135,7 +135,7 @@ export const AUDIO_ARCHIVE: Album[] = [
     artist: '우주소녀 (WJSN)',
     type: 'Single',
     releaseDate: '2026년 2월 25일',
-    coverUrl: 'https://images.unsplash.com/photo-1518609878373-06d740f60d8b?q=80&w=600&auto=format&fit=crop',
+    coverUrl: '/image/album/5.PNG',
     gradient: 'from-purple-950 to-pink-900',
     tracks: ['Bloom hour', 'Bloom hour (Inst.)']
   },
@@ -145,7 +145,7 @@ export const AUDIO_ARCHIVE: Album[] = [
     artist: '아이브 (IVE)',
     type: 'Album',
     releaseDate: '2026년 2월 23일',
-    coverUrl: 'https://images.unsplash.com/photo-1508700115892-45ecd05ae2ad?q=80&w=600&auto=format&fit=crop',
+    coverUrl: '/image/album/6.PNG',
     gradient: 'from-indigo-950 to-teal-950',
     tracks: ['Revive (Title)', 'After LIKE (Remix)', 'Blue Heart', 'I AM (Neo Version)']
   },
@@ -155,7 +155,7 @@ export const AUDIO_ARCHIVE: Album[] = [
     artist: '다영 (DAYOUNG)',
     type: 'Single',
     releaseDate: '2026년 4월 7일',
-    coverUrl: 'https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?q=80&w=600&auto=format&fit=crop',
+    coverUrl: '/image/album/4.PNG',
     gradient: 'from-amber-950 to-red-950',
     tracks: ['Sweet Spring (Feat. Dayoung)']
   },
@@ -165,7 +165,7 @@ export const AUDIO_ARCHIVE: Album[] = [
     artist: '아이브 (IVE)',
     type: 'Single',
     releaseDate: '2025년 11월 20일',
-    coverUrl: 'https://images.unsplash.com/photo-1514525253161-7a46d19cd819?q=80&w=600&auto=format&fit=crop',
+    coverUrl: '/image/album/3.PNG',
     gradient: 'from-rose-950 to-slate-900',
     tracks: ['PUSHBACK']
   },
@@ -175,7 +175,7 @@ export const AUDIO_ARCHIVE: Album[] = [
     artist: 'KIKI',
     type: 'Single',
     releaseDate: '2026년 1월 20일',
-    coverUrl: 'https://images.unsplash.com/photo-1516280440614-37939bbacd6a?q=80&w=600&auto=format&fit=crop',
+    coverUrl: '/image/album/7.PNG',
     gradient: 'from-pink-950 to-stone-900',
     tracks: ['Film Lulu (필름루루)', 'Dear My Friend']
   },
@@ -185,7 +185,7 @@ export const AUDIO_ARCHIVE: Album[] = [
     artist: '셔누 X 형원',
     type: 'EP',
     releaseDate: '2026년 5월 21일',
-    coverUrl: 'https://images.unsplash.com/photo-1614613535308-eb5fbd3d2c17?q=80&w=600&auto=format&fit=crop',
+    coverUrl: '/image/album/7.PNG',
     gradient: 'from-slate-900 to-indigo-950',
     tracks: ['Love Me', 'Roll the Dice', 'Play Me']
   }
