@@ -45,7 +45,7 @@ export const RECENT_RELEASES: Album[] = [
     artist: 'SHOWNU X HYUNGWON',
     type: 'EP',
     releaseDate: '2026년 5월 21일',
-    coverUrl: 'https://images.unsplash.com/photo-1614613535308-eb5fbd3d2c17?q=80&w=600&auto=format&fit=crop',
+    coverUrl: '/image/album/2.PNG',
     gradient: 'from-slate-900 to-indigo-950',
     description: 'Capturing the beating heart of contemporary K-Pop, this space curates the definitive soundtrack of a generation. Every release represents a bold leap forward, blending infectious rhythms and deeply resonant storytelling. From global stadium anthems to intimate tracks, Starship Entertainment continues to push the boundaries of sound, transforming simple melodies into global phenomena.',
     tracks: ['Love Me', 'Roll the Dice', 'Play Me', 'Slow Dance']
