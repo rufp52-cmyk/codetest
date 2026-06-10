@@ -1,6 +1,0 @@
-{
-  "name": "Starship Entertainment",
-  "description": "Starship Entertainment official responsive web portal, featuring recent releases, artists audio archive, auditions, dynamic sheduler, and video player.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
