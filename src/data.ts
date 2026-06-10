@@ -56,7 +56,7 @@ export const RECENT_RELEASES: Album[] = [
     artist: 'WJSN',
     type: 'Single',
     releaseDate: '2026년 2월 25일',
-    coverUrl: 'https://images.unsplash.com/photo-1518609878373-06d740f60d8b?q=80&w=600&auto=format&fit=crop',
+    coverUrl: '/image/album/5.PNG',
     gradient: 'from-purple-950 to-pink-950',
     description: '우주소녀의 데뷔 10주년을 장식하는 특별 싱글 [Bloom hour]. 화려하게 피어나는 꽃들처럼 변함없이 빛나는 팬들과의 시간을 봄날의 설렘을 담은 멜로디로 풀어낸 선물 같은 트랙.',
     tracks: ['Bloom hour', '🌸 Bloom hour (Inst.)']
