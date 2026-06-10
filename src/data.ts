@@ -67,21 +67,10 @@ export const RECENT_RELEASES: Album[] = [
     artist: 'IVE',
     type: 'Album',
     releaseDate: '2026년 2월 23일',
-    coverUrl: 'https://images.unsplash.com/photo-1508700115892-45ecd05ae2ad?q=80&w=600&auto=format&fit=crop',
+    coverUrl: '/image/album/6.PNG',
     gradient: 'from-blue-950 to-emerald-950',
     description: '아이브가 선보이는 미스터리어스하고 당당한 매력의 두 번째 정규 앨범 <REVIVE+>. 더욱 깊어진 보컬과 감각적인 비트로 글로벌 차트를 매료시킬 대작.',
     tracks: ['Revive', 'After LIKE (Remix)', 'Blue Heart', 'I AM (Neo Version)', 'Intro: Oasis']
-  },
-  {
-    id: 'pushback',
-    title: '디지털 싱글 [PUSHBACK]',
-    artist: 'IVE',
-    type: 'Single',
-    releaseDate: '2025년 11월 20일',
-    coverUrl: 'https://images.unsplash.com/photo-1514525253161-7a46d19cd819?q=80&w=600&auto=format&fit=crop',
-    gradient: 'from-rose-950 to-slate-900',
-    description: '한계를 뛰어넘어 더 높은 곳을 향해 질주하는 강력한 의지를 담아낸 아이브의 파워풀 일렉트로 팝 트랙.',
-    tracks: ['PUSHBACK', 'PUSHBACK (Inst.)']
   },
   {
     id: 'dayoung-single',
@@ -89,7 +78,7 @@ export const RECENT_RELEASES: Album[] = [
     artist: 'DAYOUNG',
     type: 'Single',
     releaseDate: '2026년 4월 7일',
-    coverUrl: 'https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?q=80&w=600&auto=format&fit=crop',
+    coverUrl: '/image/album/4.PNG',
     gradient: 'from-amber-950 to-red-950',
     description: '상큼하고 발랄한 에너지를 전하는 우주소녀 다영의 매력적인 특별 피처링 싱글.',
     tracks: ['Sweet Spring (Feat. Dayoung)', 'Sweet Spring (Inst.)']
@@ -103,7 +92,7 @@ export const LATEST_ON_AIR: OnAirShow[] = [
     cast: '유재석 & 유연석',
     type: 'Entertainment',
     releaseDate: '화요일 오후 10시 20분',
-    coverUrl: 'https://images.unsplash.com/photo-1522071820081-009f0129c71c?q=80&w=600&auto=format&fit=crop',
+    coverUrl: '/image/album/8.PNG',
     gradient: 'from-green-950 to-emerald-950',
     description: 'Transcending the boundaries of screen and stage, our actors bring unforgettable narratives to life with raw emotion and depth. This archive traces the active steps of visionary performers commanding the spotlight across dramas, cinema, variety shows, and live theater. Every project is a testament to the meticulous dedication that defines true storytelling.'
   },
