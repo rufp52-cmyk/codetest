@@ -223,23 +223,14 @@ export const AUDIO_ARCHIVE: Album[] = [
 ];
 
 export const YOUTUBE_VIDEOS: YoutubeVideo[] = [
- /* {
+  {
     id: 'video-ive-heya',
     title: "아이브 (IVE) '해야 (HEYA)' MV",
     artist: '아이브 (IVE)',
-    videoId: 'YLhY7YgLST8',
-    thumbnailUrl: 'https://images.unsplash.com/photo-1501386761578-eac5c94b800a?q=80&w=600&auto=format&fit=crop'
-  },*/
+    videoId: '07EzMbVH3QE',
+    thumbnailUrl: 'https://img.youtube.com/vi/07EzMbVH3QE/maxresdefault.jpg'
+  },
 
- {
-  id: 'video-ive-heya',
-  title: "아이브 (IVE) '해야 (HEYA)' MV",
-  artist: '아이브 (IVE)',
-  videoId: '07EzMbVH3QE',
-  thumbnailUrl: 'https://img.youtube.com/vi/07EzMbVH3QE/maxresdefault.jpg'
-},
-
-  
   {
     id: 'video-monstax-liar',
     title: "MONSTA X (몬스타엑스) 'Beautiful Liar' MV",
@@ -247,6 +238,7 @@ export const YOUTUBE_VIDEOS: YoutubeVideo[] = [
     videoId: '-G8S8pTID7w',
     thumbnailUrl: 'https://images.unsplash.com/photo-1498038432885-c6f3f1b912ee?q=80&w=600&auto=format&fit=crop'
   },
+
   {
     id: 'video-wjsn-wish',
     title: "우주소녀 (WJSN) '이루어리 (As You Wish)' MV",
@@ -254,6 +246,7 @@ export const YOUTUBE_VIDEOS: YoutubeVideo[] = [
     videoId: '2p8F_A9QZt8',
     thumbnailUrl: 'https://images.unsplash.com/photo-1482440308425-276ad0f28b19?q=80&w=600&auto=format&fit=crop'
   },
+
   {
     id: 'video-cravity-love',
     title: "CRAVITY (크래비티) 'Love or Die' MV",
