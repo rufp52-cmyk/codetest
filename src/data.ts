@@ -105,7 +105,7 @@ export const LATEST_ON_AIR: OnAirShow[] = [
     releaseDate: '2026년 5월 26일 화요일 공개',
     coverUrl: './image/actor/1-1.PNG', 
     gradient: 'from-green-950 to-emerald-950',
-    description: '안녕하세요. 킹콩 by 스타쉽입니다. 배우 이광수가 출연하는 넷플릭스 예능 <유재석 캠프>가 공개됩니다. 많은 관심과 시청 바랍니다. 감사합니다.'
+    description: '배우 이광수가 출연하는 넷플릭스 예능 <유재석 캠프>가 공개됩니다. 많은 관심과 시청 바랍니다. 감사합니다.'
   },
  {
     id: 'dongwook-book', // 
@@ -115,7 +115,7 @@ export const LATEST_ON_AIR: OnAirShow[] = [
     releaseDate: '2026년 5월 23일 토요일 첫 공연',
     coverUrl: './image/actor/2-1.PNG', // 
     gradient: 'from-zinc-900 to-stone-950',
-    description: '안녕하세요. 킹콩 by 스타쉽입니다. 배우 김경남이 출연하는 연극 <렁스>가 충무아트센터 중극장 블랙에서 첫 공연을 시작합니다. 팬 여러분의 많은 관심과 응원 부탁드립니다. 감사합니다.'
+    description: '배우 김경남이 출연하는 연극 <렁스>가 충무아트센터 중극장 블랙에서 첫 공연을 시작합니다. 팬 여러분의 많은 관심과 응원 부탁드립니다. 감사합니다.'
   },
 {
     id: 'headwig', // 
@@ -125,7 +125,7 @@ export const LATEST_ON_AIR: OnAirShow[] = [
     releaseDate: '2026년 4월 29일 수요일 공개',
     coverUrl: './image/actor/3-1.PNG', // .
     gradient: 'from-amber-950 to-orange-950',
-    description: '안녕하세요. 킹콩 by 스타쉽입니다. 배우 이광수가 출연하는 디즈니+의 오리지널 시리즈 <골드랜드>가 공개됩니다. 팬 여러분의 많은 관심과 시청 부탁드립니다. 감사합니다.'
+    description: '배우 이광수가 출연하는 디즈니+의 오리지널 시리즈 <골드랜드>가 공개됩니다. 팬 여러분의 많은 관심과 시청 부탁드립니다. 감사합니다.'
   },
 {
     id: 'quiet-life', // 
@@ -135,7 +135,7 @@ export const LATEST_ON_AIR: OnAirShow[] = [
     releaseDate: '2026년 4월 22일 수요일 개봉',
     coverUrl: './image/actor/4-1.PNG', // 
     gradient: 'from-teal-900 to-slate-950',
-    description: '안녕하세요. 킹콩 by 스타쉽입니다. 배우 신승호가 출연하는 영화 <짱구>가 개봉합니다. 전국 극장에서 팬 여러분의 많은 관심과 관람 부탁드립니다. 감사합니다.'
+    description: '배우 신승호가 출연하는 영화 <짱구>가 개봉합니다. 전국 극장에서 팬 여러분의 많은 관심과 관람 부탁드립니다. 감사합니다.'
   },
   {
     id: 'quiet-life', // 
@@ -145,7 +145,7 @@ export const LATEST_ON_AIR: OnAirShow[] = [
     releaseDate: '2026년 4월 22일 수요일 밤 9시 첫 방송',
     coverUrl: './image/actor/5-1.PNG', // 
     gradient: 'from-teal-900 to-slate-950',
-    description: '안녕하세요. 킹콩 by 스타쉽입니다. 4월 22일 수요일 밤 9시! 배우 김범이 출연하는 SBS 수목드라마 <오늘도 매진했습니다>가 방송됩니다. 팬 여러분의 많은 관심과 본방 사수 부탁드립니다. 감사합니다.'
+    description: '4월 22일 수요일 밤 9시! 배우 김범이 출연하는 SBS 수목드라마 <오늘도 매진했습니다>가 방송됩니다. 팬 여러분의 많은 관심과 본방 사수 부탁드립니다. 감사합니다.'
   },
 {
     id: 'quiet-life', // 
@@ -155,7 +155,7 @@ export const LATEST_ON_AIR: OnAirShow[] = [
     releaseDate: '2026년 4월 개봉', 
     coverUrl: './image/actor/6-1.PNG', // 
     gradient: 'from-teal-900 to-slate-950',
-    description: '안녕하세요. 킹콩 by 스타쉽입니다. 배우 장다아가 출연하는 영화 <살목지>가 개봉했습니다. 전국 극장에서 만나볼 수 있사오니 여러분들의 많은 관심과 관람 부탁드립니다. 감사합니다.'
+    description: ' 배우 장다아가 출연하는 영화 <살목지>가 개봉했습니다. 전국 극장에서 만나볼 수 있사오니 여러분들의 많은 관심과 관람 부탁드립니다. 감사합니다.'
   }
 ];
 
