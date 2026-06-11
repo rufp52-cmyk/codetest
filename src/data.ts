@@ -190,25 +190,25 @@ export const AUDIO_ARCHIVE: Album[] = [
     gradient: 'from-amber-950 to-red-950',
     tracks: ['Sweet Spring (Feat. Dayoung)']
   },
-  {
+{
     id: 'archive-pushback',
-    title: 'IVE 디지털 싱글 [PUSHBACK]',
-    artist: '아이브 (IVE)',
-    type: 'Single',
-    releaseDate: '2025년 11월 20일',
+    title: '[EP] CRAVITY THE 8TH EP <ReDeFINE>',
+    artist: 'CRAVITY (크래비티)',
+    type: 'EP',
+    releaseDate: '2026년 5월 19일',
     coverUrl: '/image/album/3.PNG',
     gradient: 'from-rose-950 to-slate-900',
-    tracks: ['PUSHBACK']
+    tracks: ['더는 멈출 수 없어 (Now or Never)',]
   },
   {
     id: 'archive-kiki',
-    title: 'KIKI [필름루루]',
+    title: 'KIKI [Delulu Pack]',
     artist: 'KIKI',
     type: 'Single',
     releaseDate: '2026년 1월 20일',
     coverUrl: '/image/album/7.PNG',
     gradient: 'from-pink-950 to-stone-900',
-    tracks: ['Film Lulu (필름루루)', 'Dear My Friend']
+    tracks: ['Film Lulu (Delulu Pack)', 'Dear My Friend']
   },
   {
     id: 'archive-loveme',
@@ -216,7 +216,7 @@ export const AUDIO_ARCHIVE: Album[] = [
     artist: '셔누 X 형원',
     type: 'EP',
     releaseDate: '2026년 5월 21일',
-    coverUrl: '/image/album/7.PNG',
+    coverUrl: '/image/album/2.PNG',
     gradient: 'from-slate-900 to-indigo-950',
     tracks: ['Love Me', 'Roll the Dice', 'Play Me']
   }
