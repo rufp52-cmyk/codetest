@@ -223,13 +223,23 @@ export const AUDIO_ARCHIVE: Album[] = [
 ];
 
 export const YOUTUBE_VIDEOS: YoutubeVideo[] = [
-  {
+ /* {
     id: 'video-ive-heya',
     title: "아이브 (IVE) '해야 (HEYA)' MV",
     artist: '아이브 (IVE)',
     videoId: 'YLhY7YgLST8',
     thumbnailUrl: 'https://images.unsplash.com/photo-1501386761578-eac5c94b800a?q=80&w=600&auto=format&fit=crop'
-  },
+  },*/
+
+ {
+  id: 'video-ive-heya',
+  title: "아이브 (IVE) '해야 (HEYA)' MV",
+  artist: '아이브 (IVE)',
+  videoId: '07EzMbVH3QE',
+  thumbnailUrl: 'https://img.youtube.com/vi/07EzMbVH3QE/maxresdefault.jpg'
+}
+
+  
   {
     id: 'video-monstax-liar',
     title: "MONSTA X (몬스타엑스) 'Beautiful Liar' MV",
