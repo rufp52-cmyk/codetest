@@ -92,7 +92,7 @@ export const LATEST_ON_AIR: OnAirShow[] = [
     cast: '이광수',
     type: 'Entertainment',
     releaseDate: '2026년 5월 26일 화요일 공개',
-    coverUrl: '/image/album/1-1.PNG', 
+    coverUrl: '/image/actor/1-1.PNG', 
     gradient: 'from-green-950 to-emerald-950',
     description: '안녕하세요. 킹콩 by 스타쉽입니다. 배우 이광수가 출연하는 넷플릭스 예능 <유재석 캠프>가 공개됩니다. 많은 관심과 시청 바랍니다. 감사합니다.'
   },
