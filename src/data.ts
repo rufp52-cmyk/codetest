@@ -96,15 +96,15 @@ export const LATEST_ON_AIR: OnAirShow[] = [
     gradient: 'from-green-950 to-emerald-950',
     description: '안녕하세요. 킹콩 by 스타쉽입니다. 배우 이광수가 출연하는 넷플릭스 예능 <유재석 캠프>가 공개됩니다. 많은 관심과 시청 바랍니다. 감사합니다.'
   },
-  {
-    id: 'dongwook-book',
-    title: '이동욱 비하인드 포토북',
-    cast: '이동욱',
-    type: 'Photo Book',
-    releaseDate: '2026년 6월 9일',
-    coverUrl: '/image/album/3-1.PNG',
+ {
+    id: 'dongwook-book', // 
+    title: '연극 <렁스>',
+    cast: '김경남',
+    type: 'Theater',
+    releaseDate: '2026년 5월 23일 토요일 첫 공연',
+    coverUrl: './image/actor/2-1.PNG', // 
     gradient: 'from-zinc-900 to-stone-950',
-    description: '배우 이동욱의 품격 있고 치명적인 오라를 가득 담은 비하인드 화보집. 한정 수량 선예약 판매 개시.'
+    description: '안녕하세요. 킹콩 by 스타쉽입니다. 배우 김경남이 출연하는 연극 <렁스>가 충무아트센터 중극장 블랙에서 첫 공연을 시작합니다. 팬 여러분의 많은 관심과 응원 부탁드립니다. 감사합니다.'
   },
   {
     id: 'headwig',
