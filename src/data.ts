@@ -39,17 +39,18 @@ export interface ScheduleItem {
 }
 
 export const RECENT_RELEASES: Album[] = [
-  {
+{
     id: 'love-me',
-    title: 'EP <LOVE ME>',
+    title: '[EP] SHOWNU X HYUNGWON EP <LOVE ME>',
     artist: 'SHOWNU X HYUNGWON',
     type: 'EP',
     releaseDate: '2026년 5월 21일',
     coverUrl: '/image/album/2.PNG',
     gradient: 'from-slate-900 to-indigo-950',
-    description: 'Capturing the beating heart of contemporary K-Pop, this space curates the definitive soundtrack of a generation. Every release represents a bold leap forward, blending infectious rhythms and deeply resonant storytelling. From global stadium anthems to intimate tracks, Starship Entertainment continues to push the boundaries of sound, transforming simple melodies into global phenomena.',
+    description: '현대 K-Pop의 심장박동을 담아낸 이 공간은 한 세대의 결정적인 사운드트랙을 큐레이션합니다. 모든 발매작은 중독성 있는 리듬과 깊은 공감을 자아내는 스토리텔링을 융합하며 대담한 도약을 보여줍니다. 글로벌 스타디움 찬가부터 심금을 울리는 서정적인 트랙까지, 스타쉽엔터테인먼트는 사운드의 경계를 끊임없이 확장하며 단순한 멜로디를 글로벌 신드롬으로 변화시켜 나갑니다.',
     tracks: ['Love Me', 'Roll the Dice', 'Play Me', 'Slow Dance']
   },
+```</LOVE>
   {
     id: 'bloomhour',
     title: '[싱글] 우주소녀 [Bloom hour]',
