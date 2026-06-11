@@ -86,15 +86,15 @@ export const RECENT_RELEASES: Album[] = [
 ];
 
 export const LATEST_ON_AIR: OnAirShow[] = [
-  {
-    id: 'whenever-possible',
-    title: '틈만나면,',
-    cast: '유재석 & 유연석',
+ {
+    id: 'yu-jae-seok-camp',
+    title: '유재석 캠프',
+    cast: '이광수',
     type: 'Entertainment',
-    releaseDate: '화요일 오후 10시 20분',
-    coverUrl: '/image/album/1-1.PNG',
+    releaseDate: '2026년 5월 26일 화요일 공개',
+    coverUrl: '/image/album/1-1.PNG',요.
     gradient: 'from-green-950 to-emerald-950',
-    description: 'Transcending the boundaries of screen and stage, our actors bring unforgettable narratives to life with raw emotion and depth. This archive traces the active steps of visionary performers commanding the spotlight across dramas, cinema, variety shows, and live theater. Every project is a testament to the meticulous dedication that defines true storytelling.'
+    description: '안녕하세요. 킹콩 by 스타쉽입니다. 배우 이광수가 출연하는 넷플릭스 예능 <유재석 캠프>가 공개됩니다. 많은 관심과 시청 바랍니다. 감사합니다.'
   },
   {
     id: 'dongwook-book',
