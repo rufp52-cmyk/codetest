@@ -82,7 +82,18 @@ export const RECENT_RELEASES: Album[] = [
     gradient: 'from-amber-950 to-red-950',
     description: '상큼하고 발랄한 에너지를 전하는 우주소녀 다영의 매력적인 특별 피처링 싱글.',
     tracks: ['Sweet Spring (Feat. Dayoung)', 'Sweet Spring (Inst.)']
-  }
+  },
+ {
+    id: 'dayoung-single', // 
+    title: '[EP] Delulu Pack',
+    artist: 'KiiiKiii (키키)',
+    type: 'EP',
+    releaseDate: '2026년',
+    coverUrl: '/image/album/7.PNG', // 앨범 이미지 경로 유지
+    gradient: 'from-amber-950 to-red-950',
+    description: '키키의 두 번째 미니앨범 [Delulu Pack]. 타이틀곡 \'404 (New Era)\'를 비롯하여 "현실은 잠시 내려두고, 원하는 나를 다시 재생하는 시간"을 키키만의 유머와 태도, 상상으로 풀어내며 다채로운 음악적 변신과 확고한 정체성을 담아낸 앨범.',
+    tracks: ['404 (New Era)', 'Delulu Pack (Inst.)'] // 공식 트랙 리스트에 맞게 수정하여 사용하세요.
+  },
 ];
 
 export const LATEST_ON_AIR: OnAirShow[] = [
@@ -125,6 +136,26 @@ export const LATEST_ON_AIR: OnAirShow[] = [
     coverUrl: './image/actor/4-1.PNG', // 
     gradient: 'from-teal-900 to-slate-950',
     description: '안녕하세요. 킹콩 by 스타쉽입니다. 배우 신승호가 출연하는 영화 <짱구>가 개봉합니다. 전국 극장에서 팬 여러분의 많은 관심과 관람 부탁드립니다. 감사합니다.'
+  },
+  {
+    id: 'quiet-life', // 
+    title: '오늘도 매진했습니다',
+    cast: '김범',
+    type: 'Drama',
+    releaseDate: '2026년 4월 22일 수요일 밤 9시 첫 방송',
+    coverUrl: './image/actor/5-1.PNG', // 
+    gradient: 'from-teal-900 to-slate-950',
+    description: '안녕하세요. 킹콩 by 스타쉽입니다. 4월 22일 수요일 밤 9시! 배우 김범이 출연하는 SBS 수목드라마 <오늘도 매진했습니다>가 방송됩니다. 팬 여러분의 많은 관심과 본방 사수 부탁드립니다. 감사합니다.'
+  },
+{
+    id: 'quiet-life', // 
+    title: '영화 <살목지>',
+    cast: '장다아',
+    type: 'Movie',
+    releaseDate: '2026년 4월 개봉', 
+    coverUrl: './image/actor/6-1.PNG', // 
+    gradient: 'from-teal-900 to-slate-950',
+    description: '안녕하세요. 킹콩 by 스타쉽입니다. 배우 장다아가 출연하는 영화 <살목지>가 개봉했습니다. 전국 극장에서 만나볼 수 있사오니 여러분들의 많은 관심과 관람 부탁드립니다. 감사합니다.'
   }
 ];
 
