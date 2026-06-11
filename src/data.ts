@@ -237,7 +237,7 @@ export const YOUTUBE_VIDEOS: YoutubeVideo[] = [
   artist: '아이브 (IVE)',
   videoId: '07EzMbVH3QE',
   thumbnailUrl: 'https://img.youtube.com/vi/07EzMbVH3QE/maxresdefault.jpg'
-}
+},
 
   
   {
