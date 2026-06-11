@@ -112,19 +112,19 @@ export const LATEST_ON_AIR: OnAirShow[] = [
     cast: '이광수',
     type: 'Drama', // 디즈니+ 오리지널 시리즈에 맞춰 Drama(또는 Series)로 변경했습니다.
     releaseDate: '2026년 4월 29일 수요일 공개',
-    coverUrl: './image/actor/4-1.PNG', // 이전의 폴더 구조(actor)에 맞춰 경로를 유지했습니다.
+    coverUrl: './image/actor/3-1.PNG', // .
     gradient: 'from-amber-950 to-orange-950',
     description: '안녕하세요. 킹콩 by 스타쉽입니다. 배우 이광수가 출연하는 디즈니+의 오리지널 시리즈 <골드랜드>가 공개됩니다. 팬 여러분의 많은 관심과 시청 부탁드립니다. 감사합니다.'
   },
-  {
-    id: 'quiet-life',
-    title: '삼시세끼 Special',
-    cast: '이광수',
-    type: 'Variety',
-    releaseDate: '금요일 오후 9시 10분',
-    coverUrl: '/image/album/5-1.PNG',
+{
+    id: 'quiet-life', // 
+    title: '영화 <짱구>',
+    cast: '신승호',
+    type: 'Movie',
+    releaseDate: '2026년 4월 22일 수요일 개봉',
+    coverUrl: './image/actor/4-1.PNG', // 
     gradient: 'from-teal-900 to-slate-950',
-    description: '배우 이광수의 유쾌하고 친근한 일상을 엿볼 수 있는 버라이어티 힐링 캠프 현장 예능.'
+    description: '안녕하세요. 킹콩 by 스타쉽입니다. 배우 신승호가 출연하는 영화 <짱구>가 개봉합니다. 전국 극장에서 팬 여러분의 많은 관심과 관람 부탁드립니다. 감사합니다.'
   }
 ];
 
