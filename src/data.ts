@@ -106,15 +106,15 @@ export const LATEST_ON_AIR: OnAirShow[] = [
     gradient: 'from-zinc-900 to-stone-950',
     description: '안녕하세요. 킹콩 by 스타쉽입니다. 배우 김경남이 출연하는 연극 <렁스>가 충무아트센터 중극장 블랙에서 첫 공연을 시작합니다. 팬 여러분의 많은 관심과 응원 부탁드립니다. 감사합니다.'
   },
-  {
-    id: 'headwig',
-    title: '뮤지컬 헤드윅',
-    cast: '유연석',
-    type: 'Musical',
-    releaseDate: '2026년 6월 7일',
-    coverUrl: '/image/album/4-1.PNG',
+{
+    id: 'headwig', // 
+    title: '골드랜드',
+    cast: '이광수',
+    type: 'Drama', // 디즈니+ 오리지널 시리즈에 맞춰 Drama(또는 Series)로 변경했습니다.
+    releaseDate: '2026년 4월 29일 수요일 공개',
+    coverUrl: './image/actor/4-1.PNG', // 이전의 폴더 구조(actor)에 맞춰 경로를 유지했습니다.
     gradient: 'from-amber-950 to-orange-950',
-    description: '서울 대학로를 뜨겁게 달군 유연석의 전설적인 헤드윅 무대. 관객들의 찬사 속 피날레 공연 성료.'
+    description: '안녕하세요. 킹콩 by 스타쉽입니다. 배우 이광수가 출연하는 디즈니+의 오리지널 시리즈 <골드랜드>가 공개됩니다. 팬 여러분의 많은 관심과 시청 부탁드립니다. 감사합니다.'
   },
   {
     id: 'quiet-life',
