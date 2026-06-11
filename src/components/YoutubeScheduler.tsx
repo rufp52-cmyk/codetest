@@ -65,10 +65,9 @@ export default function YoutubeScheduler({ videos, schedule, onStatusChange }: Y
             <div className="w-full aspect-video bg-zinc-900 border border-zinc-900 rounded-2xl overflow-hidden shadow-2xl relative group">
               <iframe
                 title={selectedVideo.title}
-                src={`https://www.youtube.com/embed/${selectedVideo.videoId}?autoplay=0&mute=0&rel=0`}
-                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                src={`https://www.youtube-nocookie.com/embed/${selectedVideo.videoId}`}
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
                 allowFullScreen
-                referrerPolicy="no-referrer"
                 className="w-full h-full border-0"
               />
             </div>
